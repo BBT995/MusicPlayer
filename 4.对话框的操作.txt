@@ -1,0 +1,23 @@
+1.打开文件
+	类：OpenFileDialog ofd=new OpenFileDailog();
+	ofd.
+2.保存文件
+	类：SaveFileDailog sfd=new SaveFileDailog();
+3.字体
+	类：FontDailog fd =new FontDailog();
+	fd.Font;(代表对话框中选中的字体类型)
+4.颜色
+	类：ColorDailog cd =new ColorDailog();
+		cd.Color;(代表对话框中选中的字体颜色)
+		
+	注意：在将对话框展示出来之前（对象名.ShowDailog();），需要将对话框的标题--对象名.Title、
+			默认对话框的保存或打开路径--对象名.InitiallDirectory=@"路径";、
+			文件类型--对象名.Filter="文本文件|*.txt|视频文件|*.mp4|音频文件|*.mp3;*.wav;*.acc;*.flac|所有文件|*.*";设置好
+			
+			如需要添加多种类型，则在后面加分号“;”
+			
+			
+			获取选中的文件路径：对象名.FileName;
+			是否选择多个文件： 对象名.Multiselect;
+
+			得到文件全路径的文件名：string fileName=Path.GetFileName(文件全路径);
