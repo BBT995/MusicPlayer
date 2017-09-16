@@ -1,0 +1,9 @@
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\bin\Debug\01音乐播放器.exe.config
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\bin\Debug\01音乐播放器.exe
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\bin\Debug\01音乐播放器.pdb
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\obj\Debug\01音乐播放器.csprojResolveAssemblyReference.cache
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\obj\Debug\_01音乐播放器.Form1.resources
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\obj\Debug\_01音乐播放器.Properties.Resources.resources
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\obj\Debug\01音乐播放器.csproj.GenerateResource.Cache
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\obj\Debug\01音乐播放器.exe
+H:\C语言工程路径\0016.Net基础班第十六天\01音乐播放器\obj\Debug\01音乐播放器.pdb
